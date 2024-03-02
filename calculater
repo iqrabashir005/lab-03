@@ -9,3 +9,5 @@ cout<<"a+b"<<endl;
 cout<<"a-b"<<endl;
 "multiplication"
 cout<<"a*b"<<endl;
+"division"
+cout<<"a/b"<<endl;

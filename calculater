@@ -7,3 +7,7 @@ cout<<"23-st-005"<<endl;
 cout<<"a+b"<<endl;
 "subtraction"
 cout<<"a-b"<<endl;
+"multiplication"
+cout<<"a*b"<<endl;
+"division"
+cout<<"a/b"<<endl;

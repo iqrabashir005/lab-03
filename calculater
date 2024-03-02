@@ -5,3 +5,5 @@ cout<<"iqra"<<endl;
 cout<<"23-st-005"<<endl;
 "addition"
 cout<<"a+b"<<endl;
+"subtraction"
+cout<<"a-b"<<endl;
